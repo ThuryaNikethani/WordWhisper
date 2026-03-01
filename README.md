@@ -1,6 +1,6 @@
 # 📖 Forgotten Words — Flashcard App
 
-An Android app that teaches you one obscure or unusual English word every day, shown as a beautiful flashcard with pronunciation, definition, and an example sentence.
+An simple Android app that teaches you one obscure or unusual English word every day, shown as a beautiful flashcard with pronunciation, definition, and an example sentence.
 
 ---
 
@@ -12,22 +12,6 @@ An Android app that teaches you one obscure or unusual English word every day, s
 - **Words Today Counter** — Shows how many words you've revealed in one session
 - **Save Words** — Bookmark any word you want to remember
 - **Explore More** — Tap "Next Word" to browse through all 40+ words
-
----
-
-## How to Open in Android Studio
-
-1. Unzip this project folder
-2. Open **Android Studio**
-3. Click **File → Open**
-4. Navigate to and select the `ForgottenWords` folder
-5. Wait for Gradle to sync (may take a minute)
-6. Click the green **Run ▶** button or press `Shift + F10`
-
-> **Minimum SDK:** Android 5.0 (API 21)  
-> **Target SDK:** Android 14 (API 34)  
-> **Language:** Java  
-> **No internet required** — all words are stored inside the app
 
 ---
 
@@ -61,7 +45,7 @@ ForgottenWords/
 
 ## Technologies Used
 
-- **Java** — All logic written in plain Java (no Kotlin)
+- **Java** — All logic written in plain Java 
 - **Android SDK** — Native Android UI components
 - **SharedPreferences** — Saves streak, bookmarks, and word count locally
 - **Material Components** — For styled buttons and UI elements
