@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background color (soft off-white / cream) -->
+    <color name="background">#F5F0EB</color>
+
+    <!-- Card background (white) -->
+    <color name="cardBackground">#FFFFFF</color>
+
+    <!-- Main text color (deep charcoal) -->
+    <color name="textPrimary">#1C1C1E</color>
+
+    <!-- Secondary text color (medium grey) -->
+    <color name="textSecondary">#6B6B6E</color>
+
+    <!-- Accent purple (for pronunciation, labels, origin) -->
+    <color name="accentPurple">#6B4EFF</color>
+
+    <!-- Accent orange (for streak) -->
+    <color name="accentOrange">#FF6B35</color>
+
+    <!-- Accent green (for next word button) -->
+    <color name="accentGreen">#2D9E6B</color>
+
+    <!-- Divider line color -->
+    <color name="dividerColor">#E5E5EA</color>
+
+    <!-- White -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- Required by Android -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+</resources>
