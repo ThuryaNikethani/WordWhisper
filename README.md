@@ -60,3 +60,7 @@ Tenebrism, Lucubrate, Quiddity, Susurrus, Crepuscular, Pandiculation, Eldritch,
 Fulgent, Soporific, Palimpsest, Vespertine, Lambent, Numinous, Lacuna,
 Diaphanous, Ululation, Stygian, Halcyon, Fugacious, Lethologica, Sylvan,
 Coruscate, Serendipity, Zeitgeist, Ineffable, and more!
+
+---
+## Authors
+[Thurya Nikethani(Thinu)](https://github.com/ThuryaNikethani)
